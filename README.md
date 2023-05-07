@@ -7,3 +7,4 @@
 * [фронт-енд код](https://github.com/xxai-art/web)
 * [Језички пакети за сајт као целину](https://github.com/xxai-art/web/tree/main/i18n)
 * [Језички пакети за модуле за пријаву](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Вишејезична документација веб странице](https://github.com/xxai-doc)
